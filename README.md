@@ -1,1 +1,1 @@
-# RECEIPT_EXTRACTION
+# Receipt Extraction
